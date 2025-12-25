@@ -1,4 +1,3 @@
-# visual_scripting_prototype
 # Visual Scripting Prototype
 
 ## 1. Problème résolu
@@ -49,3 +48,4 @@ Le projet est développé en **C++17** avec **SDL3 + ImGui**.
 ### Build
 ```bash
 python build.py
+
