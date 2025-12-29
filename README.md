@@ -47,5 +47,7 @@ Le projet est développé en **C++17** avec **SDL3 + ImGui**.
 
 ### Build
 ```bash
-python build.py
+python build.py        # Compile le projet
+python build.py run    # Lance l'application
+python build.py clean  # Nettoie le dossier build
 
